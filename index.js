@@ -1,1 +1,7 @@
-console.log("hello");
+
+
+function writeHello() {
+    console.log("hello");
+}
+
+writeHello();
